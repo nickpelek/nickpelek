@@ -1,6 +1,6 @@
 ### Hello 👋
 My name is Nick and i'm an Agricultural Economist and i'm interested in Data Science!
-- 🔭 I’m currently try to make my Github profile better 😆
+- 👷 I’m currently trying to make my GitHub profile better 😆
 - 🌱 I’m currently learning Python 
 <!--
 **nickpelek/nickpelek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:
