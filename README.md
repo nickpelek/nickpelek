@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is Nick and i'm an Agricultural Economist and i'm interested in Data Science!
+My name is Nick. I'm an Agricultural Economist and i'm interested in Data Science!
 - 👷 I’m currently trying to make my GitHub profile better 😆
 - 🌱 I’m currently learning Python 
 <!--
