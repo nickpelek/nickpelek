@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is Nick. I'm an Agricultural Economist and i'm interested in tech world!
+My name is Nick. I'm an Agricultural Economist and i'm interested in the world of Data!
 - 👷 I’m currently trying to make my GitHub profile better 😆
 - 🌱 I’m currently learning Python & JavaScript.
 <!--
